@@ -99,3 +99,20 @@ a{
 a:hover{
     color: rgb(38, 132, 255);
 }
+
+#experience, #objective, #edu, #refrences, #honor p{
+    margin: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: left;
+}
+
+thead{
+    margin: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+hr{
+    width: 5%;
+    margin-bottom: 20px;
